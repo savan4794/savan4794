@@ -7,7 +7,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 - 💼 **Fullstack Engineer at [Acespritech Solutions Pvt. Ltd.](https://acespritech.com/)**
 - 📈 Built github-readme-stats, verlyjs and more, **50M+ hits • 50K stars on GitHub**
 - ❤️ I love writing Code and building fun experiments on type-level
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/savan4794/savan4794/issues)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
