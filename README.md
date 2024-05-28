@@ -1,4 +1,4 @@
-# Hello! I'm Anurag
+# Hello! I'm Savan Rathod
 *I do open source :)*
   
 I'm a self-taught passionate Fullstack developer from India 🇮🇳
